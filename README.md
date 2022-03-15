@@ -3,11 +3,11 @@
 
 1. SpringBoot validation for controllers
 
-  a. Bean validation
+    a. Bean validation
 
-  b. Request Param Validation
+    b. Request Param Validation
 
-  c. Path param validation
+    c. Path param validation
 
 2. Validation using default annotations of spring-boot-starter-validation
 
